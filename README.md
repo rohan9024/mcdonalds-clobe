@@ -1,5 +1,5 @@
 This is the mcdonalds clone.
-It is deployed on firebase. You can check out the clone via -->
+It is deployed on firebase. You can check out the clone via --> https://mcdonalds-clone-d0bb8.firebaseapp.com/
 
 I have used React, tailwind css for making this clone.
 The main aim of this project was to implement responsiveness of the website.
